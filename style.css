@@ -1,0 +1,40 @@
+.fundo{
+
+    background-color: black;
+    color: white;
+    }
+.titulo{
+    color: blue;
+}
+.info{
+ color: white;
+}
+
+.imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-color: greenyellow;
+    border-style: solid;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.projetos{
+    max-width: 500px;
+    max-height: 500px;
+}
+.fundo2{
+    background-color: gray;
+    height: 40px;
+    text-align: left;
+    font-style: oblique;
+    font-size: medium;
+    color: white;
+}
+
+.info{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
